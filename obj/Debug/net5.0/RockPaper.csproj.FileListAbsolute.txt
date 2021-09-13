@@ -1,0 +1,15 @@
+/Users/andre/programm/CSharp/RockPaper/obj/Debug/net5.0/RockPaper.csproj.AssemblyReference.cache
+/Users/andre/programm/CSharp/RockPaper/obj/Debug/net5.0/RockPaper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andre/programm/CSharp/RockPaper/obj/Debug/net5.0/RockPaper.AssemblyInfoInputs.cache
+/Users/andre/programm/CSharp/RockPaper/obj/Debug/net5.0/RockPaper.AssemblyInfo.cs
+/Users/andre/programm/CSharp/RockPaper/obj/Debug/net5.0/RockPaper.csproj.CoreCompileInputs.cache
+/Users/andre/programm/CSharp/RockPaper/bin/Debug/net5.0/RockPaper.deps.json
+/Users/andre/programm/CSharp/RockPaper/bin/Debug/net5.0/RockPaper.runtimeconfig.json
+/Users/andre/programm/CSharp/RockPaper/bin/Debug/net5.0/RockPaper.runtimeconfig.dev.json
+/Users/andre/programm/CSharp/RockPaper/bin/Debug/net5.0/RockPaper.dll
+/Users/andre/programm/CSharp/RockPaper/bin/Debug/net5.0/ref/RockPaper.dll
+/Users/andre/programm/CSharp/RockPaper/bin/Debug/net5.0/RockPaper.pdb
+/Users/andre/programm/CSharp/RockPaper/obj/Debug/net5.0/RockPaper.dll
+/Users/andre/programm/CSharp/RockPaper/obj/Debug/net5.0/ref/RockPaper.dll
+/Users/andre/programm/CSharp/RockPaper/obj/Debug/net5.0/RockPaper.pdb
+/Users/andre/programm/CSharp/RockPaper/obj/Debug/net5.0/RockPaper.genruntimeconfig.cache
